@@ -17,7 +17,7 @@ function App() {
       author: 'Franklin D. Roosevelt'
     },
     {
-      text: 'Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate: only love can do that.',
+      text: 'Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.',
       author: 'Martin Luther King Jr.'
     },
     {
@@ -29,7 +29,7 @@ function App() {
       author: 'Benjamin Franklin'
     },
     {
-      text: 'The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.',
+      text: 'The best and most beautiful things in the world cannot be seen or even touched they must be felt with the heart.',
       author: 'Helen Keller'
     },
     {
@@ -37,11 +37,11 @@ function App() {
       author: 'Aristotle'
     },
     {
-      text: 'Do not go where the path may lead; go instead where there is no path and leave a trail.',
+      text: 'Do not go where the path may lead go instead where there is no path and leave a trail.',
       author: 'Ralph Waldo Emerson'
     },
     {
-      text: 'Be yourself; everyone else is already taken.',
+      text: 'Be yourself everyone else is already taken.',
       author: 'Oscar Wilde'
     },
   ];
